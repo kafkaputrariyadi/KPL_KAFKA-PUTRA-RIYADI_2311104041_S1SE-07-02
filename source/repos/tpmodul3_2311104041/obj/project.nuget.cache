@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PpnB/pgfX90=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slame\\source\\repos\\tpmodul3_2311104041\\tpmodul3_2311104041.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slame\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
